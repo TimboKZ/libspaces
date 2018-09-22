@@ -3,7 +3,7 @@ import requests
 
 from credentials import *
 
-# TODO use dorpbox responses to test this
+# TODO use dropbox responses to test this
 # TODO set up unit tests :)
 # TODO write main bot logic
 # TODO set up arguments
